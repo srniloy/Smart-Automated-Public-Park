@@ -1,6 +1,9 @@
 Title: Smart Automated Public Park
+
 Team: Paradox.
+
 Supervised by the faculty: Mr. Md. Jahidul Hoq Emon
+
 Course: Microcontroller and Microprocessor 
 
 Description: Dhaka's parks play a crucial role in maintaining ecological balance and urban social cohesion. The Smart Park Enhancement System (SPES) aims to enhance 
